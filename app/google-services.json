@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134616440194",
+    "project_id": "tapwm-9da0b",
+    "storage_bucket": "tapwm-9da0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134616440194:android:7fae026d7112f82303839b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdAsApoEPTNL-4wX5Aop5m9Oqhi9N0IDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
